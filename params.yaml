@@ -1,0 +1,6 @@
+# Fixed settings. RAG parameters are chosen from this grid on the dev split only.
+context_budget_tokens: 4000
+grid:
+  top_k: [1, 2, 3, 4, 5, 8]
+  k1: [0.9, 1.2, 1.8]
+  b: [0.4, 0.75]

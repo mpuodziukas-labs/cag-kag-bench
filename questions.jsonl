@@ -1,0 +1,100 @@
+{"answer": "Tidewell", "hops": 3, "id": "q001", "question": "Which team owns the system that the system that the Sablegate system depends on depends on?", "split": "test", "support": ["doc007", "doc034", "doc037"]}
+{"answer": "Eli Lowe", "hops": 1, "id": "q002", "question": "Who leads the Copperfen team?", "split": "dev", "support": ["doc051"]}
+{"answer": "Grayholt", "hops": 1, "id": "q003", "question": "Which team owns the Cinderpost system?", "split": "dev", "support": ["doc048"]}
+{"answer": "Kestrelby", "hops": 1, "id": "q004", "question": "Which team owns the Vellumhub system?", "split": "test", "support": ["doc023"]}
+{"answer": "Kestrelby", "hops": 1, "id": "q005", "question": "Which team does Lena Bright lead?", "split": "dev", "support": ["doc028"]}
+{"answer": "Ivo Hart", "hops": 1, "id": "q006", "question": "Who does Moe Nash report to?", "split": "test", "support": ["doc010"]}
+{"answer": "Fay Kim", "hops": 1, "id": "q007", "question": "Who does Ava Marsh report to?", "split": "test", "support": ["doc027"]}
+{"answer": "Fay Kim", "hops": 3, "id": "q008", "question": "Who leads the team that owns the system that the Rivetmap system depends on?", "split": "dev", "support": ["doc002", "doc016", "doc022"]}
+{"answer": "Emberindex", "hops": 1, "id": "q009", "question": "Which system does the Tallyforge system depend on?", "split": "dev", "support": ["doc029"]}
+{"answer": "Ashcombe", "hops": 1, "id": "q010", "question": "Which team owns the Rivetmap system?", "split": "test", "support": ["doc054"]}
+{"answer": "Ledgerline", "hops": 1, "id": "q011", "question": "Which system does the Thornvault system depend on?", "split": "test", "support": ["doc032"]}
+{"answer": "Ivo Marsh", "hops": 3, "id": "q012", "question": "Who leads the team that owns the system that the Sablegate system depends on?", "split": "dev", "support": ["doc037", "doc041", "doc048"]}
+{"answer": "Cinderpost", "hops": 1, "id": "q013", "question": "Which system does the Sablegate system depend on?", "split": "dev", "support": ["doc037"]}
+{"answer": "Tidewell", "hops": 3, "id": "q014", "question": "Which team owns the system that the system that the Amberrelay system depends on depends on?", "split": "test", "support": ["doc008", "doc012", "doc034"]}
+{"answer": "Ashcombe", "hops": 1, "id": "q015", "question": "Which team owns the Dovetailer system?", "split": "test", "support": ["doc002"]}
+{"answer": "Lena Bright", "hops": 1, "id": "q016", "question": "Who does Rae Hart report to?", "split": "dev", "support": ["doc004"]}
+{"answer": "Ivo Frost", "hops": 1, "id": "q017", "question": "Who does Fay Kim report to?", "split": "test", "support": ["doc024"]}
+{"answer": "Eli Ward", "hops": 3, "id": "q018", "question": "Who leads the team that owns the system that the Mossbridge system depends on?", "split": "test", "support": ["doc011", "doc017", "doc030"]}
+{"answer": "Harrowgate", "hops": 1, "id": "q019", "question": "Which team owns the Ledgerline system?", "split": "dev", "support": ["doc018"]}
+{"answer": "Ivo Frost", "hops": 1, "id": "q020", "question": "Who leads the Tidewell team?", "split": "dev", "support": ["doc014"]}
+{"answer": "Elmhollow", "hops": 3, "id": "q021", "question": "Which team owns the system that the system that the Umberdesk system depends on depends on?", "split": "test", "support": ["doc011", "doc012", "doc017"]}
+{"answer": "Mossbridge", "hops": 1, "id": "q022", "question": "Which system does the Umberdesk system depend on?", "split": "dev", "support": ["doc012"]}
+{"answer": "Copperfen", "hops": 1, "id": "q023", "question": "Which team does Eli Lowe lead?", "split": "test", "support": ["doc051"]}
+{"answer": "Moe Reyes", "hops": 2, "id": "q024", "question": "Who does the person that Moe Nash reports to report to?", "split": "dev", "support": ["doc010", "doc044"]}
+{"answer": "Ivo Frost", "hops": 2, "id": "q025", "question": "Who does the person that Ivo Marsh reports to report to?", "split": "test", "support": ["doc024", "doc040"]}
+{"answer": "Ironwick", "hops": 1, "id": "q026", "question": "Which team does Cy Lowe lead?", "split": "test", "support": ["doc053"]}
+{"answer": "Tidewell", "hops": 1, "id": "q027", "question": "Which team owns the Emberindex system?", "split": "dev", "support": ["doc006"]}
+{"answer": "Cy Lowe", "hops": 3, "id": "q028", "question": "Who leads the team that owns the system that the Amberrelay system depends on?", "split": "test", "support": ["doc008", "doc025", "doc053"]}
+{"answer": "Tidewell", "hops": 2, "id": "q029", "question": "Which team owns the system that the Tallyforge system depends on?", "split": "dev", "support": ["doc006", "doc029"]}
+{"answer": "Dee Stone", "hops": 2, "id": "q030", "question": "Who does the lead of the Elmhollow team report to?", "split": "dev", "support": ["doc030", "doc057"]}
+{"answer": "Ivo Frost", "hops": 2, "id": "q031", "question": "Who leads the team that owns the Mossbridge system?", "split": "test", "support": ["doc014", "doc034"]}
+{"answer": "Rae Hart", "hops": 1, "id": "q032", "question": "Who does Eli Lowe report to?", "split": "test", "support": ["doc026"]}
+{"answer": "Moe Reyes", "hops": 1, "id": "q033", "question": "Who does Ivo Hart report to?", "split": "test", "support": ["doc044"]}
+{"answer": "Fay Kim", "hops": 2, "id": "q034", "question": "Who leads the team that owns the Dovetailer system?", "split": "test", "support": ["doc002", "doc022"]}
+{"answer": "Ivo Hart", "hops": 1, "id": "q035", "question": "Who leads the Dunmere team?", "split": "test", "support": ["doc035"]}
+{"answer": "Lena Bright", "hops": 3, "id": "q036", "question": "Who leads the team that owns the system that the Yarrowgrid system depends on?", "split": "dev", "support": ["doc023", "doc028", "doc052"]}
+{"answer": "Dee Stone", "hops": 1, "id": "q037", "question": "Who does Eli Ward report to?", "split": "dev", "support": ["doc057"]}
+{"answer": "Brindle", "hops": 1, "id": "q038", "question": "Which team does Moe Nash lead?", "split": "test", "support": ["doc056"]}
+{"answer": "Lena Bright", "hops": 3, "id": "q039", "question": "Who leads the team that owns the system that the Dovetailer system depends on?", "split": "dev", "support": ["doc023", "doc028", "doc055"]}
+{"answer": "Ivo Frost", "hops": 2, "id": "q040", "question": "Who does the person that Ava Marsh reports to report to?", "split": "dev", "support": ["doc024", "doc027"]}
+{"answer": "Ashcombe", "hops": 1, "id": "q041", "question": "Which team owns the Quillstream system?", "split": "test", "support": ["doc049"]}
+{"answer": "Kestrelby", "hops": 3, "id": "q042", "question": "Which team owns the system that the system that the Rivetmap system depends on depends on?", "split": "test", "support": ["doc016", "doc023", "doc055"]}
+{"answer": "Ironwick", "hops": 2, "id": "q043", "question": "Which team owns the system that the Amberrelay system depends on?", "split": "dev", "support": ["doc008", "doc025"]}
+{"answer": "Moe Nash", "hops": 2, "id": "q044", "question": "Who leads the team that owns the Thornvault system?", "split": "test", "support": ["doc046", "doc056"]}
+{"answer": "Moe Nash", "hops": 1, "id": "q045", "question": "Who leads the Brindle team?", "split": "test", "support": ["doc056"]}
+{"answer": "Ivo Frost", "hops": 3, "id": "q046", "question": "Who does the lead of the team that owns the Rivetmap system report to?", "split": "dev", "support": ["doc022", "doc024", "doc054"]}
+{"answer": "Rae Fox", "hops": 3, "id": "q047", "question": "Who does the lead of the team that owns the Vellumhub system report to?", "split": "dev", "support": ["doc023", "doc028", "doc058"]}
+{"answer": "Brindle", "hops": 3, "id": "q048", "question": "Which team owns the system that the system that the Tallyforge system depends on depends on?", "split": "test", "support": ["doc029", "doc046", "doc059"]}
+{"answer": "Rae Fox", "hops": 1, "id": "q049", "question": "Who does Lena Bright report to?", "split": "dev", "support": ["doc058"]}
+{"answer": "Mossbridge", "hops": 2, "id": "q050", "question": "Which system does the system that the Sablegate system depends on depend on?", "split": "dev", "support": ["doc007", "doc037"]}
+{"answer": "Eli Park", "hops": 3, "id": "q051", "question": "Who does the lead of the team that owns the Mossbridge system report to?", "split": "dev", "support": ["doc014", "doc034", "doc043"]}
+{"answer": "Zephyrlog", "hops": 2, "id": "q052", "question": "Which system does the system that the Cinderpost system depends on depend on?", "split": "test", "support": ["doc007", "doc011"]}
+{"answer": "Rae Hart", "hops": 2, "id": "q053", "question": "Who does the person that Ivo Hart reports to report to?", "split": "dev", "support": ["doc044", "doc047"]}
+{"answer": "Ivo Marsh", "hops": 1, "id": "q054", "question": "Who leads the Grayholt team?", "split": "test", "support": ["doc041"]}
+{"answer": "Dunmere", "hops": 1, "id": "q055", "question": "Which team owns the Sablegate system?", "split": "dev", "support": ["doc050"]}
+{"answer": "Eli Ward", "hops": 1, "id": "q056", "question": "Who leads the Elmhollow team?", "split": "test", "support": ["doc030"]}
+{"answer": "Ashcombe", "hops": 1, "id": "q057", "question": "Which team does Fay Kim lead?", "split": "dev", "support": ["doc022"]}
+{"answer": "Ivo Hart", "hops": 1, "id": "q058", "question": "Who does Eli Park report to?", "split": "test", "support": ["doc042"]}
+{"answer": "Lena Bright", "hops": 1, "id": "q059", "question": "Who leads the Kestrelby team?", "split": "test", "support": ["doc028"]}
+{"answer": "Dee Stone", "hops": 1, "id": "q060", "question": "Who does Cy Lowe report to?", "split": "test", "support": ["doc039"]}
+{"answer": "Brindle", "hops": 2, "id": "q061", "question": "Which team owns the system that the Emberindex system depends on?", "split": "test", "support": ["doc046", "doc059"]}
+{"answer": "Moe Nash", "hops": 2, "id": "q062", "question": "Who leads the team that owns the Basaltcore system?", "split": "test", "support": ["doc013", "doc056"]}
+{"answer": "Elmhollow", "hops": 1, "id": "q063", "question": "Which team owns the Tallyforge system?", "split": "test", "support": ["doc033"]}
+{"answer": "Hana Stone", "hops": 1, "id": "q064", "question": "Who leads the Harrowgate team?", "split": "dev", "support": ["doc060"]}
+{"answer": "Fay Kim", "hops": 1, "id": "q065", "question": "Who leads the Ashcombe team?", "split": "dev", "support": ["doc022"]}
+{"answer": "Dunmere", "hops": 1, "id": "q066", "question": "Which team does Ivo Hart lead?", "split": "test", "support": ["doc035"]}
+{"answer": "Dovetailer", "hops": 1, "id": "q067", "question": "Which system does the Rivetmap system depend on?", "split": "dev", "support": ["doc016"]}
+{"answer": "Brindle", "hops": 1, "id": "q068", "question": "Which team owns the Basaltcore system?", "split": "dev", "support": ["doc013"]}
+{"answer": "Cy Lowe", "hops": 1, "id": "q069", "question": "Who leads the Ironwick team?", "split": "dev", "support": ["doc053"]}
+{"answer": "Mossbridge", "hops": 2, "id": "q070", "question": "Which system does the system that the Amberrelay system depends on depend on?", "split": "dev", "support": ["doc008", "doc012"]}
+{"answer": "Ironwick", "hops": 1, "id": "q071", "question": "Which team owns the Umberdesk system?", "split": "dev", "support": ["doc025"]}
+{"answer": "Rae Hart", "hops": 1, "id": "q072", "question": "Who does Moe Reyes report to?", "split": "dev", "support": ["doc047"]}
+{"answer": "Grayholt", "hops": 1, "id": "q073", "question": "Which team does Ivo Marsh lead?", "split": "dev", "support": ["doc041"]}
+{"answer": "Thornvault", "hops": 1, "id": "q074", "question": "Which system does the Emberindex system depend on?", "split": "test", "support": ["doc059"]}
+{"answer": "Moe Reyes", "hops": 3, "id": "q075", "question": "Who does the lead of the team that owns the Sablegate system report to?", "split": "test", "support": ["doc035", "doc044", "doc050"]}
+{"answer": "Ivo Hart", "hops": 2, "id": "q076", "question": "Who does the lead of the Brindle team report to?", "split": "test", "support": ["doc010", "doc056"]}
+{"answer": "Tidewell", "hops": 1, "id": "q077", "question": "Which team does Ivo Frost lead?", "split": "test", "support": ["doc014"]}
+{"answer": "Elmhollow", "hops": 1, "id": "q078", "question": "Which team does Eli Ward lead?", "split": "test", "support": ["doc030"]}
+{"answer": "Dee Stone", "hops": 3, "id": "q079", "question": "Who does the lead of the team that owns the Tallyforge system report to?", "split": "test", "support": ["doc030", "doc033", "doc057"]}
+{"answer": "Harrowgate", "hops": 3, "id": "q080", "question": "Which team owns the system that the system that the Emberindex system depends on depends on?", "split": "dev", "support": ["doc018", "doc032", "doc059"]}
+{"answer": "Tidewell", "hops": 1, "id": "q081", "question": "Which team owns the Mossbridge system?", "split": "dev", "support": ["doc034"]}
+{"answer": "Eli Park", "hops": 1, "id": "q082", "question": "Who does Ivo Frost report to?", "split": "test", "support": ["doc043"]}
+{"answer": "Ivo Hart", "hops": 3, "id": "q083", "question": "Who does the lead of the team that owns the Thornvault system report to?", "split": "dev", "support": ["doc010", "doc046", "doc056"]}
+{"answer": "Zephyrlog", "hops": 2, "id": "q084", "question": "Which system does the system that the Umberdesk system depends on depend on?", "split": "test", "support": ["doc011", "doc012"]}
+{"answer": "Ava Marsh", "hops": 1, "id": "q085", "question": "Who does Hana Stone report to?", "split": "dev", "support": ["doc019"]}
+{"answer": "Rae Hart", "hops": 2, "id": "q086", "question": "Who does the lead of the Copperfen team report to?", "split": "dev", "support": ["doc026", "doc051"]}
+{"answer": "Dee Stone", "hops": 2, "id": "q087", "question": "Who does the lead of the Ironwick team report to?", "split": "test", "support": ["doc039", "doc053"]}
+{"answer": "Elmhollow", "hops": 1, "id": "q088", "question": "Which team owns the Zephyrlog system?", "split": "dev", "support": ["doc017"]}
+{"answer": "Vellumhub", "hops": 2, "id": "q089", "question": "Which system does the system that the Rivetmap system depends on depend on?", "split": "dev", "support": ["doc016", "doc055"]}
+{"answer": "Vellumhub", "hops": 1, "id": "q090", "question": "Which system does the Yarrowgrid system depend on?", "split": "dev", "support": ["doc052"]}
+{"answer": "Copperfen", "hops": 1, "id": "q091", "question": "Which team owns the Amberrelay system?", "split": "test", "support": ["doc021"]}
+{"answer": "Grayholt", "hops": 1, "id": "q092", "question": "Which team owns the Yarrowgrid system?", "split": "dev", "support": ["doc020"]}
+{"answer": "Kestrelby", "hops": 2, "id": "q093", "question": "Which team owns the system that the Yarrowgrid system depends on?", "split": "test", "support": ["doc023", "doc052"]}
+{"answer": "Umberdesk", "hops": 1, "id": "q094", "question": "Which system does the Amberrelay system depend on?", "split": "test", "support": ["doc008"]}
+{"answer": "Mossbridge", "hops": 1, "id": "q095", "question": "Which system does the Cinderpost system depend on?", "split": "test", "support": ["doc007"]}
+{"answer": "Harrowgate", "hops": 2, "id": "q096", "question": "Which team owns the system that the Thornvault system depends on?", "split": "dev", "support": ["doc018", "doc032"]}
+{"answer": "Harrowgate", "hops": 1, "id": "q097", "question": "Which team does Hana Stone lead?", "split": "dev", "support": ["doc060"]}
+{"answer": "Vellumhub", "hops": 1, "id": "q098", "question": "Which system does the Dovetailer system depend on?", "split": "dev", "support": ["doc055"]}
+{"answer": "Dee Stone", "hops": 1, "id": "q099", "question": "Who does Rae Fox report to?", "split": "dev", "support": ["doc045"]}
+{"answer": "Fay Kim", "hops": 1, "id": "q100", "question": "Who does Ivo Marsh report to?", "split": "test", "support": ["doc040"]}

@@ -1,0 +1,182 @@
+{
+  "claims": [
+    "multi-hop test: KAG 1.0000 vs RAG 0.0500; KAG higher; 95% intervals do not overlap.",
+    "single-hop test: KAG 1.0000 vs RAG 1.0000; equal; 95% intervals overlap.",
+    "Expected KAG above RAG on multi-hop: HELD.",
+    "Expected RAG matching KAG on single-hop (intervals overlap): HELD."
+  ],
+  "config": {
+    "cag_docs_packed": 60,
+    "context_budget_tokens": 4000,
+    "n_dev": 50,
+    "n_docs": 60,
+    "n_test": 50,
+    "token_proxy": "whitespace"
+  },
+  "dev_tuning": {
+    "best": {
+      "b": 0.4,
+      "k1": 0.9,
+      "top_k": 8
+    },
+    "dev_em": {
+      "k": 34,
+      "n": 50
+    }
+  },
+  "methods": {
+    "cag": {
+      "by_hops": {
+        "1": {
+          "acc": 1.0,
+          "hi": 1.0,
+          "k": 30,
+          "lo": 0.8865,
+          "n": 30
+        },
+        "2": {
+          "acc": 1.0,
+          "hi": 1.0,
+          "k": 11,
+          "lo": 0.7412,
+          "n": 11
+        },
+        "3": {
+          "acc": 1.0,
+          "hi": 1.0,
+          "k": 9,
+          "lo": 0.7008,
+          "n": 9
+        }
+      },
+      "cache": {
+        "cold_hit_rate": 0.0,
+        "overall_hit_rate": 0.5,
+        "warm_hit_rate": 1.0,
+        "warm_pass_identical": true
+      },
+      "mean_context_tokens": 990.0,
+      "multi": {
+        "acc": 1.0,
+        "hi": 1.0,
+        "k": 20,
+        "lo": 0.8389,
+        "n": 20
+      },
+      "overall": {
+        "acc": 1.0,
+        "hi": 1.0,
+        "k": 50,
+        "lo": 0.9286,
+        "n": 50
+      },
+      "refused": 0,
+      "single": {
+        "acc": 1.0,
+        "hi": 1.0,
+        "k": 30,
+        "lo": 0.8865,
+        "n": 30
+      },
+      "support_recall": 1.0
+    },
+    "kag": {
+      "by_hops": {
+        "1": {
+          "acc": 1.0,
+          "hi": 1.0,
+          "k": 30,
+          "lo": 0.8865,
+          "n": 30
+        },
+        "2": {
+          "acc": 1.0,
+          "hi": 1.0,
+          "k": 11,
+          "lo": 0.7412,
+          "n": 11
+        },
+        "3": {
+          "acc": 1.0,
+          "hi": 1.0,
+          "k": 9,
+          "lo": 0.7008,
+          "n": 9
+        }
+      },
+      "mean_context_tokens": 24.0,
+      "multi": {
+        "acc": 1.0,
+        "hi": 1.0,
+        "k": 20,
+        "lo": 0.8389,
+        "n": 20
+      },
+      "overall": {
+        "acc": 1.0,
+        "hi": 1.0,
+        "k": 50,
+        "lo": 0.9286,
+        "n": 50
+      },
+      "refused": 0,
+      "single": {
+        "acc": 1.0,
+        "hi": 1.0,
+        "k": 30,
+        "lo": 0.8865,
+        "n": 30
+      },
+      "support_recall": 1.0
+    },
+    "rag": {
+      "by_hops": {
+        "1": {
+          "acc": 1.0,
+          "hi": 1.0,
+          "k": 30,
+          "lo": 0.8865,
+          "n": 30
+        },
+        "2": {
+          "acc": 0.0909,
+          "hi": 0.3774,
+          "k": 1,
+          "lo": 0.0162,
+          "n": 11
+        },
+        "3": {
+          "acc": 0.0,
+          "hi": 0.2992,
+          "k": 0,
+          "lo": 0.0,
+          "n": 9
+        }
+      },
+      "mean_context_tokens": 122.8,
+      "multi": {
+        "acc": 0.05,
+        "hi": 0.2361,
+        "k": 1,
+        "lo": 0.0089,
+        "n": 20
+      },
+      "overall": {
+        "acc": 0.62,
+        "hi": 0.7414,
+        "k": 31,
+        "lo": 0.4815,
+        "n": 50
+      },
+      "refused": 19,
+      "single": {
+        "acc": 1.0,
+        "hi": 1.0,
+        "k": 30,
+        "lo": 0.8865,
+        "n": 30
+      },
+      "support_recall": 0.8067
+    }
+  }
+}

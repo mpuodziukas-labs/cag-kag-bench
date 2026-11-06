@@ -1,0 +1,1 @@
+Reference card. The Emberindex system depends on the Thornvault system. See the runbook for escalation steps.
